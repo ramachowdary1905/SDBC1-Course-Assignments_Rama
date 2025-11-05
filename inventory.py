@@ -1,4 +1,5 @@
-# Create a script inventory.py. The inventory should be a list of dictionaries. Each dictionary represents a product with keys 'product_id', 'name', 'price', and 'stock'.
+# Create a script inventory.py. The inventory should be a list of dictionaries. 
+# Each dictionary represents a product with keys 'product_id', 'name', 'price', and 'stock'.
 
 #  Creating a list of dictionaries (inventory)
 # Populate the inventory with at least 4 products.
